@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-07T16:29:11 IST" name="Default suite" finished-at="2023-06-07T16:29:41 IST" duration-ms="29548">
+    <groups>
+    </groups>
+    <test started-at="2023-06-07T16:29:11 IST" name="Default test" finished-at="2023-06-07T16:29:41 IST" duration-ms="29548">
+      <class name="com.qa.testcases.VerifyTheTestcases">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:11 IST" name="initialization" finished-at="2023-06-07T16:29:38 IST" duration-ms="26353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:38 IST" name="beforeMethod" finished-at="2023-06-07T16:29:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyTheHeadersNameList()[pri:1, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:38 IST" name="verifyTheHeadersNameList" finished-at="2023-06-07T16:29:38 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheHeadersNameList -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:38 IST" name="afterMethod" finished-at="2023-06-07T16:29:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:38 IST" name="beforeMethod" finished-at="2023-06-07T16:29:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="verifyTheAddToCardModule()[pri:2, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:38 IST" name="verifyTheAddToCardModule" finished-at="2023-06-07T16:29:38 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheAddToCardModule -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:38 IST" name="afterMethod" finished-at="2023-06-07T16:29:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.testcases.VerifyTheTestcases@93cf163]" started-at="2023-06-07T16:29:38 IST" name="tearDown" finished-at="2023-06-07T16:29:41 IST" duration-ms="3132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.testcases.VerifyTheTestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+2023-06-07 16:29:11.725 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - ***before class ***
+2023-06-07 16:29:13.873 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - ***FirefoxDriver Launch****
+2023-06-07 16:29:13.879 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - ***maximise the browser***
+2023-06-07 16:29:38.067 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - ***launch the application***
+2023-06-07 16:29:38.087 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - =========BEFORE METHOD INITIALIZED========
+2023-06-07 16:29:38.099 [main] INFO  com.AutomationPractice.qa.base.BaseClassData -  === @TEST(1) verify TheHeaders NameList======
+2023-06-07 16:29:38.105 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - ****After Method clear the objects *****
+2023-06-07 16:29:38.110 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - =========BEFORE METHOD INITIALIZED========
+2023-06-07 16:29:38.112 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - ======@TEST(2)verify The AddToCard Module======
+2023-06-07 16:29:38.115 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - ****After Method clear the objects *****
+2023-06-07 16:29:41.247 [main] INFO  com.AutomationPractice.qa.base.BaseClassData - *** @AfterClass closed the browser***
