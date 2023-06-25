@@ -22,6 +22,7 @@ public class ChromeDriverClass {
 	public void test1()
 	{
 		System.out.println("---test1----");
+		System.out.println(" Hello ");
 	}
 	
 	
@@ -29,6 +30,11 @@ public class ChromeDriverClass {
 	public void afterMethod()
 	{
 		System.out.println("---afterMethod---");
+	}
+	
+	public static void main(String []arg) {
+		System.out.println("pahil commit");
+		System.out.println("sagar");
 	}
 	
 	
