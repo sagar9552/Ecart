@@ -22,6 +22,7 @@ public class ChromeDriverClass {
 	public void test1()
 	{
 		System.out.println("---test1----");
+		System.out.println(" Hello ");
 	}
 	
 	
