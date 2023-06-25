@@ -32,6 +32,11 @@ public class ChromeDriverClass {
 		System.out.println("---afterMethod---");
 	}
 	
+	public static void main(String []arg) {
+		System.out.println("pahil commit");
+		System.out.println("sagar");
+	}
+	
 	
 	
 
