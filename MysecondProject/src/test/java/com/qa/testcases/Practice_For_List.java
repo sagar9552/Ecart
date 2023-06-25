@@ -43,6 +43,7 @@ public class Practice_For_List {
 	select.sendKeys(Keys.ENTER);
 	Thread.sleep(1000);
 	driver.findElement(By.id("phone")).sendKeys("9552751954");
+	//third line for amolsagar
 	}
 	
 }	
